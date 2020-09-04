@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "element-ui": "^2.3.9",
-    "marked": "^0.4.0",
+    "marked": "^1.1.1",
     "puppeteer": "^1.4.0",
     "showdown": "^1.8.6",
     "vue": "^2.5.2",
